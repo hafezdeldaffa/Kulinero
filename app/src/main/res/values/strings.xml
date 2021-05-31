@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kulinero</string>
+    <string name="food_name">Nama Makanan</string>
+    <string name="detail">Detail Makanan</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="food_ingredients">Food Ingredients</string>
+    <string name="about">About</string>
+    <string name="my_name">Hafezd El Daffa</string>
+    <string name="email">hafezdeldaffa70@gmail.com</string>
+</resources>

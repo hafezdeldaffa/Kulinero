@@ -1,0 +1,2 @@
+rootProject.name = "Kulinero"
+include ':app'
